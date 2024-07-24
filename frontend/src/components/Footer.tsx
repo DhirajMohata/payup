@@ -9,10 +9,10 @@ const Footer = () => {
           All rights reserved to PayUp.
         </p>
         <span className="flex space-x-3 color:green">
-          <a href="https://github.com/buneeIsSlo/payup" target="_blank">
+          <a href="https://github.com/DhirajMohata/payup" target="_blank">
             <PiGithubLogo size={"1.5em"} color="#404040" />
           </a>
-          <a href="https://www.linkedin.com/in/bunee-dev/" target="_blank">
+          <a href="https://www.linkedin.com/in/dhiraj-mohata/" target="_blank">
             <PiLinkedinLogo size={"1.5em"} color="#404040" />
           </a>
         </span>
