@@ -26,7 +26,7 @@ const ErrorElement = () => {
           This wasn't supposed to happen. Please let me know about the problem.
         </p>
         <Button variant={"outline"} className="my-2.5">
-          <a href="http://twitter.com/slo_bunee" target="_blank">
+          <a href="https://x.com/DhirajMohata1" target="_blank">
             Report problem
           </a>
         </Button>
