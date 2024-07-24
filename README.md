@@ -3,6 +3,7 @@
 # 🔼 PayUp
 
 A PayPal like web app built using the MERN stack.
+![screenshot](./public/payup-dashboard.png)
 
 </div>
 
